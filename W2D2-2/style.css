@@ -1,0 +1,29 @@
+body {
+    background-color: blue
+
+}
+
+h1 {
+    color: green
+}
+
+#nav {
+    background-color: aqua;
+    list-style-type: none;
+   
+}
+
+
+
+#nav li{
+    padding: 10px;
+    border-radius: 5px 5px 0px 0px;
+    background-color: yellow
+}
+
+
+
+li#contrast{
+    color:pink;
+    background-color: rgb(42, 165, 104); 
+}
